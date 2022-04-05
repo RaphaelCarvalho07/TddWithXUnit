@@ -1,0 +1,17 @@
+D:\Projetos\C#\Alura\TesteDeSoftware\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\Alura.LeilaoOnline.ConsoleApp.exe
+D:\Projetos\C#\Alura\TesteDeSoftware\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\Alura.LeilaoOnline.ConsoleApp.deps.json
+D:\Projetos\C#\Alura\TesteDeSoftware\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\Alura.LeilaoOnline.ConsoleApp.runtimeconfig.json
+D:\Projetos\C#\Alura\TesteDeSoftware\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\Alura.LeilaoOnline.ConsoleApp.runtimeconfig.dev.json
+D:\Projetos\C#\Alura\TesteDeSoftware\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\Alura.LeilaoOnline.ConsoleApp.dll
+D:\Projetos\C#\Alura\TesteDeSoftware\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\Alura.LeilaoOnline.ConsoleApp.pdb
+D:\Projetos\C#\Alura\TesteDeSoftware\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\Alura.LeilaoOnline.Core.dll
+D:\Projetos\C#\Alura\TesteDeSoftware\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\Alura.LeilaoOnline.Core.pdb
+D:\Projetos\C#\Alura\TesteDeSoftware\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.ConsoleApp.csproj.AssemblyReference.cache
+D:\Projetos\C#\Alura\TesteDeSoftware\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\C#\Alura\TesteDeSoftware\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.ConsoleApp.AssemblyInfoInputs.cache
+D:\Projetos\C#\Alura\TesteDeSoftware\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.ConsoleApp.AssemblyInfo.cs
+D:\Projetos\C#\Alura\TesteDeSoftware\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Projetos\C#\Alura\TesteDeSoftware\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.ConsoleApp.csproj.CopyComplete
+D:\Projetos\C#\Alura\TesteDeSoftware\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.ConsoleApp.dll
+D:\Projetos\C#\Alura\TesteDeSoftware\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.ConsoleApp.pdb
+D:\Projetos\C#\Alura\TesteDeSoftware\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.ConsoleApp.genruntimeconfig.cache

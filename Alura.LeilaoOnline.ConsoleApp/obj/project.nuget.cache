@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lwqN8VLCcA9C1OTNiSRkdfqnD/ICxgUvO64D8DVw3SamHDEuKSlGYWupgSxywmhUog1dvG4Zv+4QXkgCcdgkxw==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\C#\\Alura\\TesteDeSoftware\\Alura.LeilaoOnline\\Alura.LeilaoOnline.ConsoleApp\\Alura.LeilaoOnline.ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Raphilske\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
