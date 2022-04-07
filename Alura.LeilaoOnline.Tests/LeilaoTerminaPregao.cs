@@ -12,7 +12,7 @@ namespace Alura.LeilaoOnline.Tests
         [InlineData(1200, new double[] { 800, 900, 1000, 1200 })]
         [InlineData(1000, new double[] { 800, 900, 1000, 990 })]
         [InlineData(800, new double[] { 800 })]
-        public void RetornaMaiorValorDadoLeilaoComApenasUmLance(double valorEsperado, double[] ofertas)
+        public void RetornaMaiorValorDadoLeilaoComApenasUmLance(double valorEsperado, double[] lances)
         {
             // Arrange
             var leilao = new Leilao("Van Gogh");
@@ -20,9 +20,17 @@ namespace Alura.LeilaoOnline.Tests
             var maria = new Interessada("Maria", leilao);
 
             leilao.IniciaPregao();
-            foreach (var valor in ofertas)
+            for (int i = 0; i < lances.Length; i++)
             {
-                leilao.RecebeLance(fulano, valor);
+                var valor = lances[i];
+                if ((i % 2) == 0)
+                {
+                    leilao.RecebeLance(fulano, valor);
+                }
+                else
+                {
+                    leilao.RecebeLance(maria, valor);
+                }
             }
 
             // Act - método em teste
