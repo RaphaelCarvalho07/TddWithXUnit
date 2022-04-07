@@ -19,6 +19,7 @@ namespace Alura.LeilaoOnline.Tests
             var fulano = new Interessada("Fulano", leilao);
             var maria = new Interessada("Maria", leilao);
 
+            leilao.IniciaPregao();
             foreach (var valor in ofertas)
             {
                 leilao.RecebeLance(fulano, valor);
