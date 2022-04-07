@@ -42,6 +42,25 @@ namespace Alura.LeilaoOnline.Tests
         }
 
         [Fact]
+        public void LancaInvalidOperationExceptionDadoPregaoNaoIniciado()
+        {
+            // Arrange
+            var leilao = new Leilao("Van Gogh");
+
+            try
+            {
+                // Act - método em teste
+                leilao.TerminaPregao();
+                Assert.True(false);
+            }
+            catch (System.Exception e)
+            {
+                // Assert
+                Assert.IsType<InvalidOperationException>(e);
+            }
+        }
+
+        [Fact]
         public void RetornaZeroDadoLeilaoSemLances()
         {
             // Arrange
