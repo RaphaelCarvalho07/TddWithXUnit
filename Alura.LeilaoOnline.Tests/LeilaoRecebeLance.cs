@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace Alura.LeilaoOnline.Tests
 {
-    public class LeilaoRecebeOferta
+    public class LeilaoRecebeLance
     {
         [Theory]
         [InlineData(4, new double[] { 1000, 1200, 1400, 1300 })]
