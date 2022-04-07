@@ -47,17 +47,16 @@ namespace Alura.LeilaoOnline.Tests
             // Arrange
             var leilao = new Leilao("Van Gogh");
 
-            try
-            {
+            // Assert
+            var excecaoObtida = Assert.Throws<InvalidOperationException>
+                (
                 // Act - método em teste
-                leilao.TerminaPregao();
-                Assert.True(false);
-            }
-            catch (System.Exception e)
-            {
-                // Assert
-                Assert.IsType<InvalidOperationException>(e);
-            }
+                () => leilao.TerminaPregao()
+
+                );
+
+            var msgEsperada = "Não é possível terminar o pregão sem que ele tenha começado. Para isso, use o método IniciaPregao().";
+            Assert.Equal(msgEsperada, excecaoObtida.Message);
         }
 
         [Fact]
@@ -65,6 +64,7 @@ namespace Alura.LeilaoOnline.Tests
         {
             // Arrange
             var leilao = new Leilao("Van Gogh");
+            leilao.IniciaPregao();
 
             // Act - método em teste
             leilao.TerminaPregao();
